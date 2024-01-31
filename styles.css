@@ -83,6 +83,7 @@ body {
 .card__proof {
     font-family: 'Inter';
     color: white;
+    margin-right: 64px;
 }
 .card__proof span {
     font-size: 14px;
