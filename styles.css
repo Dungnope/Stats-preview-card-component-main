@@ -130,7 +130,7 @@ body {
         margin-top: 0;
     }
     .card__proof {
-        margin: 36px 0px 0 0;
+        margin-top: 36px;
         display: flex;
         flex-direction: column;
         justify-content: center;
