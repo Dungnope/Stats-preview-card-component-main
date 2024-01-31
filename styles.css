@@ -78,6 +78,7 @@ body {
     display: flex;
     align-items: center;
     margin-top: 70px;
+    justify-content: space-between;
 }
 .card__proof {
     font-family: 'Inter';
